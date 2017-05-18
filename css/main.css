@@ -1,0 +1,12 @@
+nav {
+  display: block; }
+  nav li {
+    text-decoration: none;
+    list-style-type: none;
+    color: #1F1F1F; }
+
+.banner {
+  background: tomato;
+  height: 400px; }
+
+/*# sourceMappingURL=main.css.map */
